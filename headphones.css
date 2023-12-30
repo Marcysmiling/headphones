@@ -1,0 +1,16 @@
+body{
+    background-color:pink;
+}
+.button{
+    background-color: pink;
+    color: black;
+    margin: 30px;
+}
+.one{
+    display: flex;
+    justify-content: space-between;
+}
+.start{
+    display: flex;
+    justify-content: space-between;
+}
